@@ -7,3 +7,9 @@
 
 name = "ada lovelace"
 print(name.title())
+
+# upper() and lower() - You can change a string to all uppercase or all lowercase letters like this:
+
+new_name = "Your Name"
+print(new_name.upper())
+print(new_name.lower())
